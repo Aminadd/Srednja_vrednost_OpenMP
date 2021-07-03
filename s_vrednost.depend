@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624821403 source:c:\users\amina\desktop\s_vrednost\main.cpp
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+
